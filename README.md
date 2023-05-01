@@ -22,6 +22,26 @@ String password = PasswordGenerator.generatePassword(12);
 
 In this example, the password will be 12 characters long.
 
+**Example**
+
+```
+How many random passwords would you like to generate?
+5
+What should be the minimum length of each password?
+8
+What should be the maximum length of each password?
+12
+
+Generating 5 random passwords...
+1. g2P6W#7V
+2. T4s9Xq3pM
+3. JcF3$Sf7
+4. N8fH!xZm
+5. 9Eh@1fWm
+
+Done!
+```
+
 ## Security Considerations
 
 Generating secure random passwords is an important aspect of cybersecurity. Here are some best practices to keep in mind:
