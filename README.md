@@ -20,7 +20,7 @@ You can also specify the length of the password by passing an integer argument t
 String password = PasswordGenerator.generatePassword(12);
 ```
 
-In this example, the password will be 12 characters long.
+In this example, the password will be 8 characters long.
 
 **Example**
 
