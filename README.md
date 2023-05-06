@@ -1,8 +1,6 @@
 # Secure Password Generator
 
-This Java code generates a secure random password that is composed of characters from four different character sets: uppercase letters, lowercase letters, digits, and symbols. The generated password contains at least one character from each set, and the remaining characters are selected randomly from all character sets.
-
-To make the password even more secure, the code shuffles the characters using the Fisher-Yates shuffle algorithm. This ensures that the password is not predictable and has maximum entropy.
+Secure random password with characters from four different character groups: uppercase letters, lowercase letters, numbers, and symbols. At least one character from each character set is included in the password, and the remainder of the characters are chosen randomly from all character groups. To increase the security of the password, the characters are shuffled using the Fisher-Yates shuffle algorithm, which prevents the password from being predictable and provides it with maximum entropy.
 
 The code uses the `SecureRandom` class from the `java.security` package, which provides a cryptographically strong random number generator. This is important for generating secure passwords that cannot be easily guessed or hacked.
 
@@ -53,7 +51,7 @@ Generating secure random passwords is an important aspect of cybersecurity. Here
 
 ## License
 
-This code is licensed under the MIT License. See the LICENSE file for more information.
+Licensed under the MIT License. See the LICENSE file for more information.
 
 ## Contributions
 
@@ -61,7 +59,7 @@ Contributions to this project are welcome! If you find a bug or want to suggest 
 
 ## Credits
 
-This code was created by Mariah Rucker.
+Created by Mariah Rucker.
 
 ## Contact
 
