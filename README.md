@@ -73,6 +73,8 @@ Licensed under the MIT License. See the LICENSE file for more information.
 
 ## Contributions
 
+Contributors: [klbaillie](https://github.com/klbaillie)
+
 Contributions to this project are welcome! If you find a bug or want to suggest an improvement, please open an issue or a pull request on the GitHub repository.
 
 ## Credits
