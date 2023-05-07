@@ -42,12 +42,17 @@ Done!
 
 ## Security Considerations
 
-Generating secure random passwords is an important aspect of cybersecurity. Here are some best practices to keep in mind:
+Generating secure random passwords is an important aspect of cybersecurity. 
+
+Here are some best practices to keep in mind:
 
 - Use a cryptographically strong random number generator to generate passwords.
 - Use a mixture of character sets (uppercase letters, lowercase letters, digits, symbols) to increase the entropy of the password.
 - Avoid using predictable or easily guessable passwords, such as "password", "12345", or "qwerty".
 - Use a password manager to store and manage your passwords securely.
+- Set password expiration policies to ensure passwords are changed regularly.
+- Make sure to use two-factor authentication whenever possible.
+- Avoid using the same password for multiple accounts.
 
 ## License
 
