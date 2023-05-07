@@ -40,6 +40,19 @@ Generating 5 random passwords...
 Done!
 ```
 
+## Features Developments
+
+```Yaml
+1. Select the length of their password
+2. Include special characters, numbers, uppercase and/or lowercase letters
+3. Choose to include words from a dictionary
+4. Select a specific character set to use
+5. Exclude certain characters from the generated password
+6. Specify a minimum number of character types in the generated password
+7. Specify a maximum number of consecutive identical characters in the generated password
+8. Save their passwords for easy retrieval
+```
+
 ## Security Considerations
 
 Generating secure random passwords is an important aspect of cybersecurity. 
